@@ -1,0 +1,61 @@
+DELAY 2500
+GUI r
+DELAY 200
+STRING notepad
+ENTER
+DELAY 500
+ENTER
+ENTER
+ENTER
+STRINGLN                             ...----....
+STRINGLN                         ..-:"''         ''"-..
+STRINGLN                      .-'                      '-.
+STRINGLN                    .'              .     .       '.
+STRINGLN                  .'   .          .    .      .    .''.
+STRINGLN                .'  .    .       .   .   .     .   . ..:.
+STRINGLN              .' .   . .  .       .   .   ..  .   . ....::.
+STRINGLN             ..   .   .      .  .    .     .  ..  . ....:IA.
+STRINGLN            .:  .   .    .    .  .  .    .. .  .. .. ....:IA.
+STRINGLN           .: .   .   ..   .    .     . . .. . ... ....:.:VHA.
+STRINGLN           '..  .  .. .   .       .  . .. . .. . .....:.::IHHB.
+STRINGLN          .:. .  . .  . .   .  .  . . . ...:.:... .......:HIHMM.
+STRINGLN         .:.... .   . ."::"'.. .   .  . .:.:.:II;,. .. ..:IHIMMA
+STRINGLN         ':.:..  ..::IHHHHHI::. . .  ...:.::::.,,,. . ....VIMMHM
+STRINGLN        .:::I. .AHHHHHHHHHHAI::. .:...,:IIHHHHHHMMMHHL:. . VMMMM
+STRINGLN       .:.:V.:IVHHHHHHHMHMHHH::..:" .:HIHHHHHHHHHHHHHMHHA. .VMMM.
+STRINGLN       :..V.:IVHHHHHMMHHHHHHHB... . .:VPHHMHHHMMHHHHHHHHHAI.:VMMI
+STRINGLN       ::V..:VIHHHHHHMMMHHHHHH. .   .I":IIMHHMMHHHHHHHHHHHAPI:WMM
+STRINGLN       ::". .:.HHHHHHHHMMHHHHHI.  . .:..I:MHMMHHHHHHHHHMHV:':H:WM
+STRINGLN       :: . :.::IIHHHHHHMMHHHHV  .ABA.:.:IMHMHMMMHMHHHHV:'. .IHWW
+STRINGLN       '.  ..:..:.:IHHHHHMMHV" .AVMHMA.:.'VHMMMMHHHHHV:' .  :IHWV
+STRINGLN        :.  .:...:".:.:TPP"   .AVMMHMMA.:. "VMMHHHP.:... .. :IVAI
+STRINGLN       .:.   '... .:"'   .   ..HMMMHMMMA::. ."VHHI:::....  .:IHW'
+STRINGLN       ...  .  . ..:IIPPIH: ..HMMMI.MMMV:I:.  .:ILLH:.. ...:I:IM
+STRINGLN     : .   .'"' .:.V". .. .  :HMMM:IMMMI::I. ..:HHIIPPHI::'.P:HM.
+STRINGLN     :.  .  .  .. ..:.. .    :AMMM IMMMM..:...:IV":T::I::.".:IHIMA
+STRINGLN     'V:.. .. . .. .  .  .   'VMMV..VMMV :....:V:.:..:....::IHHHMH
+STRINGLN       "IHH:.II:.. .:. .  . . . " :HB"" . . ..PI:.::.:::..:IHHMMV"
+STRINGLN        :IP""HHII:.  .  .    . . .'V:. . . ..:IH:.:.::IHIHHMMMMM"
+STRINGLN        :V:. VIMA:I..  .     .  . .. . .  .:.I:I:..:IHHHHMMHHMMM
+STRINGLN        :"VI:.VWMA::. .:      .   .. .:. ..:.I::.:IVHHHMMMHMMMMI
+STRINGLN        :."VIIHHMMA:.  .   .   .:  .:.. . .:.II:I:AMMMMMMHMMMMMI
+STRINGLN        :..VIHIHMMMI...::.,:.,:!"I:!"I!"I!"V:AI:VAMMMMMMHMMMMMM'
+STRINGLN        ':.:HIHIMHHA:"!!"I.:AXXXVVXXXXXXXA:."HPHIMMMMHHMHMMMMMV
+STRINGLN          V:H:I:MA:W'I :AXXXIXII:IIIISSSSSSXXA.I.VMMMHMHMMMMMM
+STRINGLN            'I::IVA ASSSSXSSSSBBSBMBSSSSSSBBMMMBS.VVMMHIMM'"'
+STRINGLN             I:: VPAIMSSSSSSSSSBSSSMMBSSSBBMMMMXXI:MMHIMMI
+STRINGLN            .I::. "H:XIIXBBMMMMMMMMMMMMMMMMMBXIXXMMPHIIMM'
+STRINGLN            :::I.  ':XSSXXIIIIXSSBMBSSXXXIIIXXSMMAMI:.IMM
+STRINGLN            :::I:.  .VSSSSSISISISSSBII:ISSSSBMMB:MI:..:MM
+STRINGLN            ::.I:.  ':"SSSSSSSISISSXIIXSSSSBMMB:AHI:..MMM.
+STRINGLN            ::.I:. . ..:"BBSSSSSSSSSSSSBBBMMMB:AHHI::.HMMI
+STRINGLN            :..::.  . ..::":BBBBBSSBBBMMMB:MMMMHHII::IHHMI
+STRINGLN            ':.I:... ....:IHHHHHMMMMMMMMMMMMMMMHHIIIIHMMV"
+STRINGLN              "V:. ..:...:.IHHHMMMMMMMMMMMMMMMMHHHMHHMHP'
+STRINGLN               ':. .:::.:.::III::IHHHHMMMMMHMHMMHHHHM"
+STRINGLN                 "::....::.:::..:..::IIIIIHHHHMMMHHMV"
+STRINGLN                   "::.::.. .. .  ...:::IIHHMMMMHMV"
+STRINGLN                     "V::... . .I::IHHMMV"'
+STRINGLN                       '"VHVHHHAHHHHMMV:"'
+ENTER
+ENTER
