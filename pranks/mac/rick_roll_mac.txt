@@ -1,20 +1,16 @@
-REM "Hello, World" for macOS
+REM "Rick Roll" for macOS
 REM Wait for the computer to enumerate the usb
+REM Time: < 3 seconds
 DELAY 1000
 REM Open Spotlight Search
-REM For most macs it will be COMMAND instead of ALT
-ALT SPACE
+COMMAND SPACE
 REM Wait for Spotlight Search to open
 DELAY 100
 REM Open the terminal
 STRING terminal
 ENTER
 REM Wait for the terminal to open
-DELAY 1000
-REM Clear the terminal
-STRING clear
-DELAY 50
-ENTER
-REM Tell the terminal to print our message!
+DELAY 900
+REM Tell the terminal to open chrome to the Rick Astley video
 STRING open -a "Google Chrome" https://youtu.be/dQw4w9WgXcQ
 ENTER
