@@ -1,0 +1,7 @@
+ALT SPACE
+DELAY 100
+STRING terminal
+ENTER
+DELAY 1000
+STRING curl parrot.live
+ENTER
